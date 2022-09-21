@@ -12,7 +12,7 @@
 
 ##### Option 01:
 
-Download the file [environment.yml](https://raw.githubusercontent.com/waldeyr/BioinfoDiscipline/main/environment.yml)
+Download the file [environment.yml](https://raw.githubusercontent.com/waldeyr/minicurso_genome_assembly_bsb_2022/main/environment.yml)
 
 `conda env create -f environment.yml`
 
